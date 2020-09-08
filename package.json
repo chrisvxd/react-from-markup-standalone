@@ -1,0 +1,10 @@
+{
+  "name": "react-from-markup-standalone",
+  "version": "2.0.0-pre.5",
+  "description": "Convert regions of markup into React, with custom callbacks",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dom-element-to-react": "^2.0.0-pre.5"
+  }
+}
